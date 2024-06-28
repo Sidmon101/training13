@@ -7,6 +7,7 @@ struct Product {
 
 int main() {
     struct Product inventory[1000];
+   
     int count = 0;
 
    printf("Enter the product id and its quantity for all the entries:\n");
